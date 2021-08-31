@@ -10,8 +10,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-
 <br /> 
+
  ## Connect with me:
 <p align="left">
 <a href="https://www.facebook.com/rakibulbanna.99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
