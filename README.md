@@ -1,5 +1,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibulbanna&layout=donut">
-<br /> 
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
