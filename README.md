@@ -4,8 +4,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
@@ -15,6 +13,8 @@
 ![Mongodb](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-000000?style=flat&logo=prisma)
 ![Mongoose ODM](https://img.shields.io/badge/-Mongoose%20ODM-000000?style=flat&logo=mongoose)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 <br /> 
 
  ## Connect with me:
