@@ -18,9 +18,9 @@
 <br /> 
 
  ## Connect with me:
-<p align="left">
+<div align="left">
 <a href = "mailto: rakibulbanna@gmail.com"><img align="center" src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="Mail" height="30" width="40" />
 <a href="https://www.linkedin.com/in/rakib-ul-banna/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="linkedin" height="30" width="40" />
 <a href="https://www.facebook.com/rakibulbanna.99/" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/74/facebook-3.svg" alt="facebook" height="30" width="40" />
-</p>
+</div>
 
